@@ -1,2 +1,4 @@
 This is my first file in Github.
 I am enjoing this github and devops Traning.
+I am pursuing B. Tech CSE @ D.Y.Patil International University Akurdi
+| Data Science | Data Visualization | HTML | Devops| AWS | Python | Spark | Azure | CICD | SQL | terraform| Linux |Scripting
